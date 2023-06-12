@@ -1,0 +1,23 @@
+=head1 NAME
+
+snippet pl-play
+
+
+=head1 VERSION
+
+v10
+
+=head1 DESCRIPTION
+
+snippet pl-play new
+
+=head1 AUTHORS
+
+D5n9sMatrix
+
+
+=head1 COPYRIGHT AND LICENSE
+
+software help IDEs math and physic 2023
+
+
